@@ -3,9 +3,13 @@ This project leverages machine learning to detect thyroid disorders based on cli
 
 Features
 Data Processing: Preprocessing and cleaning of clinical and laboratory data.
+
 Model Training: Random Forest model trained and optimized for classification tasks.
+
 Model Management: MLflow is used for tracking experiments and managing model versions.
+
 Interactive Web App: Streamlit application for user interaction, allowing predictions from JSON/Excel input.
+
 Technology Stack
 Python: Core programming language.
 Machine Learning: Random Forest (scikit-learn).
